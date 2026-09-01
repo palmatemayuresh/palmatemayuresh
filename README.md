@@ -42,14 +42,6 @@ Python learner from India. I am building a cybersecurity foundation through dail
 
 ---
 
-### GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=palmatemayuresh&show_icons=true&hide_title=true&count_private=false&include_all_commits=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palmatemayuresh&layout=compact)
-
----
-
 ### Note
 
 This profile is early. I am focused on consistent practice, clean notes, and small projects I actually understand.
