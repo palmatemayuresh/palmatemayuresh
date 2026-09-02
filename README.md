@@ -44,4 +44,4 @@ Python learner from India. I am building a cybersecurity foundation through dail
 
 ### Note
 
-This profile is early. I am focused on consistent practice, clean notes, and small projects I actually understand.
+This profile is early. I am focused on consistent practice, clean notes, and small projects I actually understand also I will do my best in learning everyday except when i have exams and tests.
