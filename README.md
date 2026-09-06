@@ -29,10 +29,10 @@ Python learner from India. I am building a cybersecurity foundation through dail
 
 | Repo | What it is |
 | --- | --- |
-| [Python-practice](https://github.com/palmatemayuresh/Python-practice) | Daily Python practice as I learn programming |
+| [Python_practice](https://github.com/palmatemayuresh/Python-practice) | Daily Python practice as I learn programming |
 | [Python_Projects](https://github.com/palmatemayuresh/Python_Projects) | Small Python projects (starting with a password generator) |
-| [tryhackme-progress](https://github.com/palmatemayuresh/tryhackme-progress) | Notes and completion screenshots from TryHackMe rooms |
-| [linux-lab](https://github.com/palmatemayuresh/linux-lab) | Linux practice for cybersecurity |
+| [tryhackme_progress](https://github.com/palmatemayuresh/tryhackme-progress) | Notes and completion screenshots from TryHackMe rooms |
+| [linux_lab](https://github.com/palmatemayuresh/linux-lab) | Linux practice for cybersecurity |
 
 ---
 
