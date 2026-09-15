@@ -1,4 +1,4 @@
-# Hi, I'm Mayuresh Palmate 👋
+# Hi, I'm Mayuresh Palmate 
 
 Python learner from India. I am building a cybersecurity foundation through daily practice in **Python**, **Linux**, and **TryHackMe**.
 
@@ -6,10 +6,10 @@ Python learner from India. I am building a cybersecurity foundation through dail
 
 ### About me
 
-- 🎯 Goal: become a cybersecurity professional
-- 🌱 Currently learning: Python, Linux commands, operating systems, and cyber fundamentals
-- 📝 I document what I learn in public so I can track progress
-- 📅 Started this journey: August 2026
+-  Goal: become a cybersecurity professional
+-  Currently learning: Python, Linux commands, operating systems, and cyber fundamentals
+-  I document what I learn in public so I can track progress
+-  Started this journey: August 2026
 
 ---
 
