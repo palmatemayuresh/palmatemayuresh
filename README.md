@@ -19,8 +19,8 @@ Python learner from India. I am building a cybersecurity foundation through dail
 - [x] Daily Python practice
 - [x] TryHackMe beginner rooms
 - [x] Linux lab notes
-- [ ] More Python security-related projects
-- [ ] Stronger Linux + networking fundamentals
+- [x] More Python security-related projects
+- [x] Stronger Linux + networking fundamentals
 - [ ] CompTIA Security+ style concepts (later)
 
 ---
