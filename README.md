@@ -33,12 +33,12 @@ Python learner from India. I am building a cybersecurity foundation through dail
 | [Python_Projects](https://github.com/palmatemayuresh/Python_Projects) | Small Python projects (starting with a password generator) |
 | [tryhackme_progress](https://github.com/palmatemayuresh/tryhackme-progress) | Notes and completion screenshots from TryHackMe rooms |
 | [linux_lab](https://github.com/palmatemayuresh/linux-lab) | Linux practice for cybersecurity |
-
+| [Websecurity](https://github.com/palmatemayuresh/Websecurity) | Websecurity Learning |
 ---
 
 ### Skills I'm building
 
-`Python` `Linux` `Git` `GitHub` `TryHackMe` `Cybersecurity fundamentals`
+`Python` `Linux` `Git` `GitHub` `TryHackMe` `Websecurity` `Cybersecurity fundamentals`
 
 ---
 
